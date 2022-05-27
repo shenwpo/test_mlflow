@@ -1,0 +1,5 @@
+name: test
+
+entry_points:
+  main:
+    command: "python3 train.py"
